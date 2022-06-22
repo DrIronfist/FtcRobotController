@@ -19,6 +19,7 @@ public class SimpleTeleop extends LinearOpMode {
         }
         while(opModeIsActive()){
             lm.getVelocity();
+            //hi
         }
     }
 }
